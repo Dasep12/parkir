@@ -18,7 +18,7 @@
     <!-- navbar menu -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
-            <img class="img-thumbnail img" height="30px" width="90px" src="<?= base_url('assets/img/screen-0.svg') ?>">
+            <img src="<?= base_url('assets/img/logo.png') ?>">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
